@@ -1,0 +1,7 @@
+# Ignorar o ambiente virtual
+mr_env/
+
+# Ignorar a biblioteca pandas
+*.pyc
+*.pyo
+__pycache__/
